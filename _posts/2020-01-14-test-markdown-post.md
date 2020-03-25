@@ -101,3 +101,5 @@ key: value
 
 [^1]: This is the footnote.
 
+
+I *do* remember some markdown!
